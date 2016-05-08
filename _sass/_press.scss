@@ -1,0 +1,136 @@
+#press-body {
+  padding: 48px 0;
+}
+
+.block {
+  margin-bottom: 30px;
+
+  h5 {
+    border-top: 5px solid black;
+    font-size: 0.8125rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0 0 18px 0;
+    padding-top: 12px;
+    font-family: $titillium;
+  }
+
+  p {
+    margin-bottom: 4px;
+  }
+
+  p.job {
+    font-style: italic;
+    font-size: 0.8125rem;
+    margin-bottom: 24px;
+  }
+}
+
+ul.toc {
+  li {
+    margin: 0 0 12px;
+    font-size: 1rem;
+    font-weight: 300;
+  }
+}
+
+ul.release-list {
+  li {
+    margin: 0 0 18px;
+
+    h3 {
+      font-size: 1.125rem;
+      margin: 0 0 5px;
+      font-weight: 300;
+    }
+    p {
+      font-size: 0.875rem;
+      color: #969696;
+      text-transform: uppercase;
+      margin: 0;
+    }
+  }
+  li:last-child {
+    margin: 0;
+  }
+}
+
+.section {
+  margin-bottom: 36px;
+  padding-bottom: 36px;
+  border-bottom: 1px dotted #d0d0d0;
+
+  h2 {
+    font-family: $titillium;
+    font-weight: 700;
+    letter-spacing: -1px;
+    font-size: 2rem;
+    margin: 0 0 24px;
+  }
+
+  p.page-top {
+    margin: 24px 0 0;
+    text-transform: uppercase;
+
+    a {
+      font-size: 0.75rem;
+    }
+  }
+}
+
+.press-release {
+  h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    letter-spacing: -1px;
+    margin: 0 0 18px;
+  }
+
+  h3 {
+    font-weight: 700;
+    margin: 36px 0 12px;
+    font-size: 1.3125rem;
+    letter-spacing: -1px;
+  }
+
+  blockquote {
+    margin-left: 2px;
+    padding-left: 24px;
+    border-left: 5px solid black;
+  }
+
+  p.subtitle {
+    font-size: 1.75rem;
+    font-weight: 300;
+    margin: 0 0 48px;
+    letter-spacing: -1px;
+  }
+
+  p, li {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+  }
+
+  p {
+    margin-bottom: 16px;
+  }
+}
+
+#images {
+  h3 {
+    font-size: 1rem;
+    font-family: $titillium;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0 0 12px;
+  }
+
+  .row {
+    margin-bottom: 48px;
+  }
+}
+
+.trans-img a {
+  display: block;
+  background: #efefef;
+}

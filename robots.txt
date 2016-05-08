@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /2016/
+Disallow: .gitignore
+Disallow: _config.yml

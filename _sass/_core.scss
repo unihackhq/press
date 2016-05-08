@@ -1,0 +1,99 @@
+
+body {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+#gl-head {
+  background: black;
+  height: 48px;
+
+  p {
+    line-height: 48px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  a {
+    color: #969696;
+  }
+
+  a:hover {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+#press-header {
+  background: #039BE5;
+  padding: 48px 0 24px;
+
+  h1 {
+    font-size: 3rem;
+    letter-spacing: -3px;
+    font-weight: 700;
+    margin: 0 0 24px 0;
+    color: white;
+
+    a {
+      color: white;
+    }
+  }
+
+  ul li {
+    display: inline;
+    margin-right: 24px;
+    font-size: 1.125rem;
+    font-weight: 300;
+
+    a {
+      color: #B3E5FC;
+      border-bottom: 5px solid transparent;
+      padding: 8px 0;
+    }
+
+    a.nav-link.active {
+      color: white;
+      border-bottom: 5px solid white;
+    }
+  }
+
+}
+
+#gl-foot {
+  text-align: center;
+  background: $footer-bg;
+  padding: 36px 0;
+
+  .logo {
+
+    p {
+      margin: 0 0 4px;
+      font-size: 0.875rem;
+    }
+
+    a {
+      height: 45px;
+      width: 184px;
+      background: url("img/wired-logo-footer-v2.png") top left no-repeat;
+      background-size: contain;
+      display: inline-block;
+      margin-bottom: 16px;
+      opacity: 0.6;
+    }
+
+    span {
+      display: none;
+    }
+  }
+
+  p {
+    font-size: 0.75rem;
+    margin: 0;
+    line-height: 1rem;
+    text-transform: uppercase;
+    color: $footer-text;
+  }
+
+}

@@ -1,0 +1,14 @@
+<div id="press_releases" class="section">
+  <h2>Press Releases</h2>
+
+  <ul class="list-unstyled release-list">
+  {% for post in site.posts %}
+    <li>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p>{{ post.date | date: "%-d %B %Y" }}</p>
+    </li>
+  {% endfor %}
+  </ul>
+
+  <p class="page-top"><a href="#top">Back to Top</a></p>
+</div>
