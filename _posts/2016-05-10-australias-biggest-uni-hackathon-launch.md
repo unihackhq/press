@@ -40,7 +40,7 @@ UNIHACK is proud to announce that Bosch, one of the world's leading engineering 
 >
 > We see UNIHACK as a great opportunity to get involved with the future generation of product developers and those who share our mentality for innovation and disruption in Australia.”
 
-Other companies that have signed on to sponsor UNIHACK 2016 include IMC Pacific, Odecee, Telstra, ThoughtWorks, Adobe, Atlassian, Deloitte, IRESS, PwC, Seamless CMS, Future Assembly, Namecheap, Outware Mobile, Readify, Sphero and Uber.
+Other companies that have signed on to sponsor UNIHACK 2016 include Computershare, IMC Pacific, Odecee, Telstra, ThoughtWorks, Adobe, Atlassian, Deloitte, IRESS, PwC, Seamless CMS, Future Assembly, Namecheap, Outware Mobile, Readify, Sphero and Uber.
 
 In addition, the event is supported by two of Australia's largest universities: Monash University and the University of Melbourne; and the Wade Institute for Entrepreneurship.
 
