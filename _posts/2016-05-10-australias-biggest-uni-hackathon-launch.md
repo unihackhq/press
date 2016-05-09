@@ -2,7 +2,6 @@
 layout: post
 title: Australia's biggest uni student hackathon is back on July 30
 subtitle: Who will be crowned this year's champion?
-date: 2016-05-10 06:00:00 +1000
 ---
 
 **MELBOURNE, Australia** – Calling all university and TAFE students! UNIHACK, Australia's premier student hackathon, is coming back on July 30. Registrations are now officially open for teams who think they have what it takes to impress the judges and be crowned UNIHACK champions for 2016.

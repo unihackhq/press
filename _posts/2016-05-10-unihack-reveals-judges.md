@@ -2,7 +2,6 @@
 layout: post
 title: UNIHACK reveals judges for 2016 competition
 subtitle: Women make up more than 50 percent in this year's panel
-date: 2016-05-10 06:00:00 +1000
 ---
 
 **MELBOURNE, Australia** — UNIHACK, Australia's premier student hackathon, has
