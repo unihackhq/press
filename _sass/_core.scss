@@ -66,31 +66,9 @@ body {
   background: $footer-bg;
   padding: 36px 0;
 
-  .logo {
-
-    p {
-      margin: 0 0 4px;
-      font-size: 0.875rem;
-    }
-
-    a {
-      height: 45px;
-      width: 184px;
-      background: url("img/wired-logo-footer-v2.png") top left no-repeat;
-      background-size: contain;
-      display: inline-block;
-      margin-bottom: 16px;
-      opacity: 0.6;
-    }
-
-    span {
-      display: none;
-    }
-  }
-
   p {
     font-size: 0.75rem;
-    margin: 0;
+    margin: 0 0 4px;
     line-height: 1rem;
     text-transform: uppercase;
     color: $footer-text;
